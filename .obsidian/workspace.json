@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "e166de611da819b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f61423d5e38829d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d8fe78f881e9445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acceso a Datos/Pene.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pene"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ad4285787d5c59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ace8c42f10daa53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5c7d18b2899e00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f2129c9ba70bc16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a22a2737367fc548",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffdf7dc853220dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "afd4a80d1ac67389",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "670c0310e7676563",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS"
+            }
+          },
+          {
+            "id": "9674809f2b20f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS"
+            }
+          },
+          {
+            "id": "924b5bc56f699ee0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c91e71f33dd0fbdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a5c7d18b2899e00",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "create a link.md",
+    "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
+    "Untitled.base",
+    "PSP",
+    "Acceso a Datos/Pene.md",
+    "Acceso a Datos",
+    "Welcome.md"
+  ]
+}
