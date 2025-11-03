@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Acceso a Datos/UD1-Acceso a RDBMS.pdf"
+                "file": "Acceso a Datos/Repaso_AccesoDatos_DG.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "UD1-Acceso a RDBMS"
+              "title": "Repaso_AccesoDatos_DG"
             }
           }
         ]
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ffdf7dc853220dff",
@@ -140,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
+                "file": "Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UD1-Acceso a RDBMS"
+              "title": "Outline of Repaso_AccesoDatos_DG"
             }
           }
         ],
@@ -170,12 +171,14 @@
   },
   "active": "7b286bcc71f507d8",
   "lastOpenFiles": [
-    "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
+    "Untitled.base",
+    "Untitled 1.base",
     "Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
     "Acceso a Datos/Resumen_Streams_DG.pdf",
     "Acceso a Datos/ResumenFicheros.pdf",
-    "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
     "Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
+    "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
+    "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
     "Acceso a Datos/Anexo-JavaStreams.pdf",
     "Acceso a Datos/lombok.png",
     "Acceso a Datos/ud1",
@@ -194,7 +197,6 @@
     "Acceso a Datos/Untitled.md",
     "Acceso a Datos/ç.pdf",
     "Untitled.md",
-    "Untitled",
     "README.md",
     "Untitled.canvas",
     "create a link.md",
