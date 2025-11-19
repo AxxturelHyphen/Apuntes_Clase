@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAtSign"
+      "LiArrowUpRightFromCircle",
+      "LiAlignCenterHorizontal",
+      "LiAsteriskSquare",
+      "LiBackpack",
+      "LiAlignRight"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "_OOC/AED": "LiAtSign"
+  "_OOC/AED": "LiAtSign",
+  "_OOC": "LiAlignRight",
+  "Acceso a Datos": "LiBackpack",
+  "DASP": "LiAsteriskSquare",
+  "IPE": "LiAlignCenterHorizontal",
+  "PSP": "LiArrowUpRightFromCircle"
 }
