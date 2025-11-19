@@ -8,7 +8,7 @@
         
     - Casos: peor (worst case), promedio (average case), mejor (best case).
         
-- **[[Recurrencias (recurrences) y recursión (recursion)]]**
+- **[[2.Recurrencias (recurrences) y recursión (recursion)]]**
     
     - Relación de recurrencia (recurrence relation) básica.
         
@@ -16,7 +16,7 @@
         
     - Método de sustitución / expansión (substitution method).
         
-- [[3.Estructuras lineales (linear data structures)]]
+- **[[3.Estructuras lineales (linear data structures)]]**
     
     - Arrays y listas (arrays & lists).
         
