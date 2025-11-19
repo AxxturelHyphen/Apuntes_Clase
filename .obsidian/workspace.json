@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
-                "mode": "source",
+                "file": "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS"
+              "title": "2.Recurrencias (recurrences) y recursión (recursion)"
             }
           }
         ]
@@ -181,19 +181,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a5c7d18b2899e00",
+  "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+    "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
-    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Excalidraw/Drawing 2025-11-19 01.30.45.excalidraw.md",
     "Excalidraw/Drawing 2025-11-19 01.30.46.excalidraw.md",
     "Excalidraw",
-    "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Recurrencias (recurrences) y recursión (recursion).md",
-    "_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
     "Acceso a Datos/Anexo-JavaStreams.pdf",
     "Acceso a Datos/lombok.png",
