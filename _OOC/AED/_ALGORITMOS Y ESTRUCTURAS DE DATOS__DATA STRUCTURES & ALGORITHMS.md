@@ -453,26 +453,3 @@ Bloque **más conceptual / de esquemas** pero aun así merece **algunos ejercici
 
 ---
 
-## En conclusión (para que te organices)
-
-Si tu tiempo es limitado y tienes que priorizar dónde hacer MÁS ejercicios vs MÁS lectura:
-
-- **Mucho ejercicio (prioridad alta):**
-    
-    - Bloque 2 – Recurrencias y recursión.
-        
-    - Bloque 3 – Estructuras lineales.
-        
-    - Bloque 4 – Árboles.
-        
-    - Bloque 6 – Grafos.
-        
-    - Bloque 7 – Ordenación.
-        
-- **Mixto, pero con menos carga de ejercicios:**
-    
-    - Bloque 1 – Fundamentos y notación.
-        
-    - Bloque 5 – Hash tables.
-        
-    - Bloque 8 – Técnicas de diseño.
