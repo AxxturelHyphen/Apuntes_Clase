@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c344692702c4c06",
+        "id": "a5d234ed9bfe6eae",
         "type": "tabs",
         "children": [
           {
-            "id": "7b286bcc71f507d8",
+            "id": "3a4640279d09b366",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Acceso a Datos/Repaso_AccesoDatos_DG.pdf"
+                "file": "_OOC/AED/3.Estructuras lineales (linear data structures).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Repaso_AccesoDatos_DG"
+              "icon": "lucide-file",
+              "title": "3.Estructuras lineales (linear data structures)"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ffdf7dc853220dff",
@@ -166,22 +167,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b286bcc71f507d8",
+  "active": "3a4640279d09b366",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Untitled 1.base",
+    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+    "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
+    "Acceso a Datos/Anexo-JavaStreams.pdf",
+    "Acceso a Datos/lombok.png",
     "Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
     "Acceso a Datos/Resumen_Streams_DG.pdf",
     "Acceso a Datos/ResumenFicheros.pdf",
     "Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
     "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
-    "PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
-    "Acceso a Datos/Anexo-JavaStreams.pdf",
-    "Acceso a Datos/lombok.png",
-    "Acceso a Datos/ud1",
+    "DASP/DASP_chuleta_2pag.pdf",
+    "IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
+    "_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
+    "Recurrencias (recurrences) y recursión (recursion).md",
+    "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
+    "Excalidraw",
+    "_OOC/AED",
     "Acceso a Datos/Anexo-JavaStreams_formatted_v2.md",
     "Acceso a Datos/Repaso_AccesoDatos_DG.md",
     "Acceso a Datos/Anexo-JavaStreams_formatted.md",
@@ -195,7 +205,6 @@
     "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md",
     "Acceso a Datos/asdasdasd.md",
     "Acceso a Datos/Untitled.md",
-    "Acceso a Datos/ç.pdf",
     "Untitled.md",
     "README.md",
     "Untitled.canvas",
