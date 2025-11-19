@@ -16,7 +16,7 @@
         
     - Método de sustitución / expansión (substitution method).
         
-- **Estructuras lineales (linear data structures)**
+- [[3.Estructuras lineales (linear data structures)]]
     
     - Arrays y listas (arrays & lists).
         

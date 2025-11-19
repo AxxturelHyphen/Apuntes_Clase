@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOC/AED/3.Estructuras lineales (linear data structures).md",
-                "mode": "preview",
+                "file": "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Estructuras lineales (linear data structures)"
+              "title": "_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS"
             }
           }
         ]
@@ -175,9 +175,10 @@
   },
   "active": "3a4640279d09b366",
   "lastOpenFiles": [
-    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
+    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
     "Acceso a Datos/Anexo-JavaStreams.pdf",
     "Acceso a Datos/lombok.png",
@@ -187,7 +188,6 @@
     "Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
     "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
     "DASP/DASP_chuleta_2pag.pdf",
-    "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Recurrencias (recurrences) y recursión (recursion).md",
     "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
     "Excalidraw",
