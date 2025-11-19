@@ -155,3 +155,65 @@ void f(int n) {
     
 
 (Guía: línea del bucle se ejecuta $n$ veces → tiempo $O(n)$; espacio extra $O(1)$.)
+
+Ejercicio C2 – Bucle anidado (cuadrado)
+```Java
+void g(int n) {
+    int count = 0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j < n; j++) {
+            count++;
+        }
+    }
+    System.out.println(count);
+}
+
+```
+
+1. ¿Cuántas veces se ejecuta `count++;` en total?
+    
+2. Da la complejidad temporal en notación Big-O.
+    
+3. Si movemos el `System.out.println(count);` dentro del bucle interno, ¿cambia la clase de complejidad asintótica?
+    
+
+---
+
+### Ejercicio C3 – Bucle triangular
+```Java
+void h(int n) {
+    int count = 0;
+    for (int i = 0; i < n; i++) {
+        for (int j = 0; j <= i; j++) {
+            count++;
+        }
+    }
+}
+```
+
+1. Escribe la suma que cuenta cuántas veces se ejecuta `count++;`:  
+    por ejemplo, algo tipo  
+    $\sum_{i=0}^{n-1} (\dots)$.
+    
+2. Usa la fórmula clásica de la suma  
+    $1 + 2 + \dots + n = \dfrac{n(n+1)}{2}$.
+    
+3. Da la complejidad en notación Big-O.
+    
+4. Compárala con el doble bucle perfecto (C2): ¿crecen igual asintóticamente?
+    
+
+---
+
+### Ejercicio C4 – Búsqueda lineal (linear search)
+```Java
+int linearSearch(int[] a, int x) {
+    for (int i = 0; i < a.length; i++) {
+        if (a[i] == x) {
+            return i;
+        }
+    }
+    return -1;
+}
+```
+
