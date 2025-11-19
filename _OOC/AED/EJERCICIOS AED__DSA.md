@@ -390,8 +390,51 @@ Sea $n = a.length$.
 
 Imagina un algoritmo con complejidad $O(n^2)$. Completa mentalmente:
 
-|n|Tiempo relativo|
-|---|---|
-|1.000|t|
-|2.000|?|
-|10.000|?|
+| n      | Tiempo relativo |
+| ------ | --------------- |
+| 1.000  | t               |
+| 2.000  | ?               |
+| 10.000 | ?               |
+1. ¿Qué pasa con el tiempo cuando **duplicas** $n$ (de 1000 a 2000)?
+    
+2. ¿Qué pasa cuando lo multiplicas por 10 (de 1000 a 10.000)?
+    
+3. Explica por qué las complejidades cuadráticas son problemáticas cuando $n$ crece.
+    
+
+---
+
+## H. Chuleta mental del Bloque 1 (para pegar al final de tus notas)
+
+- Un algoritmo (algorithm) es una **secuencia finita** de pasos **bien definidos**, que dados unos **datos de entrada** produce una **salida** y **termina** en tiempo finito.
+    
+- Complejidad temporal (time complexity): número de operaciones básicas como función de $n$.
+    
+- Complejidad espacial (space complexity): memoria necesaria como función de $n$.
+    
+- Casos:
+    
+    - Mejor caso (best case) → mínimo tiempo.
+        
+    - Peor caso (worst case) → máximo tiempo.
+        
+    - Caso promedio (average case) → rendimiento esperado.
+        
+- Notación:
+    
+    - $O(f(n))$ → cota superior asintótica.
+        
+    - $\Omega(f(n))$ → cota inferior.
+        
+    - $\Theta(f(n))$ → cota ajustada (acota por arriba y por abajo).
+        
+- Orden típico de crecimiento (de menor a mayor):  
+    $\log n < n < n \log n < n^2 < n^3 < 2^n < n!$.
+    
+- Reglas rápidas:
+    
+    - Suma: manda el término que crece más → $O(n^2 + n) = O(n^2)$.
+        
+    - Bucles anidados: multiplicas iteraciones → dos bucles de 0..n-1 → $O(n^2)$.
+        
+    - Dividir el problema a la mitad cada vez (binary search, loops con `i *= 2`) → $O(\log n)$.
