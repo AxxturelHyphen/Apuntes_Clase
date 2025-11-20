@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+                "file": "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
                 "mode": "preview",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ffdf7dc853220dff",
@@ -184,11 +185,13 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
-    "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
-    "_OOC/AED/3.Estructuras lineales (linear data structures).md",
-    "_OOC/AED/EJERCICIOS AED__DSA.md",
-    "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
-    "_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
+    "Untitled.md",
+    "Guija",
+    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+    "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
+    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
+    "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 1.base",
@@ -197,14 +200,13 @@
     "Excalidraw/Drawing 2025-11-19 01.30.46.excalidraw.md",
     "Excalidraw",
     "Recurrencias (recurrences) y recursión (recursion).md",
-    "IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
-    "Acceso a Datos/Anexo-JavaStreams.pdf",
-    "Acceso a Datos/lombok.png",
-    "Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
-    "Acceso a Datos/Resumen_Streams_DG.pdf",
-    "Acceso a Datos/ResumenFicheros.pdf",
-    "Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
-    "Acceso a Datos/UD1-Acceso a RDBMS.pdf",
+    "Guija/IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
+    "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
+    "Guija/Acceso a Datos/lombok.png",
+    "Guija/Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
+    "Guija/Acceso a Datos/Resumen_Streams_DG.pdf",
+    "Guija/Acceso a Datos/ResumenFicheros.pdf",
+    "Guija/Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
     "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
     "Acceso a Datos/Anexo-JavaStreams_formatted_v2.md",
     "Acceso a Datos/Repaso_AccesoDatos_DG.md",
@@ -219,7 +221,6 @@
     "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md",
     "Acceso a Datos/asdasdasd.md",
     "Acceso a Datos/Untitled.md",
-    "Untitled.md",
     "README.md",
     "create a link.md"
   ]

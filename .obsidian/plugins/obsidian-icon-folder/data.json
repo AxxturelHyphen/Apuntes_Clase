@@ -34,10 +34,10 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "_OOC/AED": "LiAtSign",
-  "_OOC": "LiAlignRight",
-  "Acceso a Datos": "LiBackpack",
-  "DASP": "LiAsteriskSquare",
-  "IPE": "LiAlignCenterHorizontal",
-  "PSP": "LiArrowUpRightFromCircle"
+  "Guija/_OOC": "LiAlignRight",
+  "Guija/_OOC/AED": "LiAtSign",
+  "Guija/Acceso a Datos": "LiBackpack",
+  "Guija/DASP": "LiAsteriskSquare",
+  "Guija/IPE": "LiAlignCenterHorizontal",
+  "Guija/PSP": "LiArrowUpRightFromCircle"
 }
