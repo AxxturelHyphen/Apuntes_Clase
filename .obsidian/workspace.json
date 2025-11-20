@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ffdf7dc853220dff",
@@ -185,11 +184,13 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "Excalidraw/Drawing 2025-11-20 14.29.58.excalidraw.md",
+    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+    "Excalidraw",
     "Untitled.md",
     "Guija",
-    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
-    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Untitled.canvas",
@@ -198,7 +199,6 @@
     "Untitled.base",
     "Excalidraw/Drawing 2025-11-19 01.30.45.excalidraw.md",
     "Excalidraw/Drawing 2025-11-19 01.30.46.excalidraw.md",
-    "Excalidraw",
     "Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
     "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
