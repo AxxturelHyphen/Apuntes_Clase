@@ -40,7 +40,7 @@ Si:
 
 Entonces:
 
-lim⁡x→af(x)g(x)=lim⁡x→af′(x)g′(x)\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}x→alim​g(x)f(x)​=x→alim​g′(x)f′(x)​
+$\large{\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$
 
 si este segundo límite existe (o es $\pm \infty$).
 
