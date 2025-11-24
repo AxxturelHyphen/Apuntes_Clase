@@ -12,8 +12,7 @@ En **análisis de algoritmos** comparamos funciones tipo:
     
 
 Para saber cuál crece más rápido, miramos el límite:
-
-					 $\lim_{n \to \infty} \frac{T_1(n)}{T_2(n)}​$
+		$\lim_{n \to \infty} \frac{T_1(n)}{T_2(n)}​$
 
 - Si el límite es **0** → $T_1(n)$ crece más lento → $T_1(n) \in o(T_2(n))$
     
@@ -54,7 +53,7 @@ En DSA simplemente tratamos $n$ como real ($x$) y hacemos el límite cuando $x \
 
 Compara $f(n) = \log n$ y $g(n) = n^\alpha$:
 
-			$L = \lim_{n \to \infty} \frac{\log n}{n^\alpha}$
+$L = \lim_{n \to \infty} \frac{\log n}{n^\alpha}$
 
 Es $\infty / \infty$. Aplico L’Hôpital:
 
@@ -112,7 +111,7 @@ Traducción DSA: **cualquier exponencial $a^n$ revienta a cualquier polinomio $n
 
 Usando L’Hôpital (y estos patrones) te quedas con la jerarquía clásica de crecimiento:
 
-			$\Large{\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n!}$
+$\Large{\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n!}$
 - $\log n$ = muy lento (good complexity)
     
 - $n$, $n \log n$, $n^2$, $n^3$… = polinómicos (normalito)
