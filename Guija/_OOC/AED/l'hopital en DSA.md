@@ -54,7 +54,7 @@ En DSA simplemente tratamos $n$ como real ($x$) y hacemos el límite cuando $x \
 
 Compara $f(n) = \log n$ y $g(n) = n^\alpha$:
 
-L = \lim_{n \to \infty} \frac{\log n}{n^\alpha
+			$L = \lim_{n \to \infty} \frac{\log n}{n^\alpha}$
 
 Es $\infty / \infty$. Aplico L’Hôpital:
 
@@ -63,7 +63,7 @@ Es $\infty / \infty$. Aplico L’Hôpital:
 - $g'(x) = \alpha x^{\alpha-1}$
     
 
-L=lim⁡x→∞1/xαxα−1=lim⁡x→∞1αxα=0L = \lim_{x \to \infty} \frac{1/x}{\alpha x^{\alpha-1}} = \lim_{x \to \infty} \frac{1}{\alpha x^\alpha} = 0L=x→∞lim​αxα−11/x​=x→∞lim​αxα1​=0
+$L=lim⁡x→∞1/xαxα−1=lim⁡x→∞1αxα=0L = \lim_{x \to \infty} \frac{1/x}{\alpha x^{\alpha-1}} = \lim_{x \to \infty} \frac{1}{\alpha x^\alpha} = 0L=x→∞lim​αxα−11/x​=x→∞lim​αxα1​=0$
 
 ⇒ $\log n$ crece mucho más lento que $n^\alpha$  
 ⇒ $\log n \in o(n^\alpha)$
