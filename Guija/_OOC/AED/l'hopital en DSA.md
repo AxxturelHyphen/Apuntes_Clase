@@ -74,7 +74,7 @@ Traducción DSA: **cualquier $n^\alpha$ gana a $\log n$**.
 
 #### Ejemplo 2: $n \log n$ vs $n^2$
 
-L=lim⁡n→∞nlog⁡nn2=lim⁡n→∞log⁡nnL = \lim_{n \to \infty} \frac{n\log n}{n^2} = \lim_{n \to \infty} \frac{\log n}{n}L=n→∞lim​n2nlogn​=n→∞lim​nlogn​
+$\large{L = \lim_{n \to \infty} \frac{n\log n}{n^2} = \lim_{n \to \infty} \frac{\log n}{n}}​$
 
 Otra vez $\infty / \infty$:
 
@@ -83,7 +83,7 @@ Otra vez $\infty / \infty$:
 - $g'(x) = 1$
     
 
-L=lim⁡x→∞1/x1=0L = \lim_{x \to \infty} \frac{1/x}{1} = 0L=x→∞lim​11/x​=0
+$L=lim⁡x→∞1/x1=0L = \lim_{x \to \infty} \frac{1/x}{1} = 0L=x→∞lim​11/x​=0$
 
 ⇒ $n\log n \in o(n^2)$  
 Traducción DSA: **$O(n \log n)$ es mejor (más rápido) que $O(n^2)$**.
