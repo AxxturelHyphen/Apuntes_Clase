@@ -101,7 +101,7 @@ Tipo $\infty / \infty$. Derivamos:
 - $g'(x) = 2^x \ln 2$
     
 
-$L=lim⁡x→∞12xln⁡2=0L = \lim_{x \to \infty} \frac{1}{2^x \ln 2} = 0$
+$\large{L = \lim_{x \to \infty} \frac{1}{2^x \ln 2} = 0}$
 
 ⇒ $n \in o(2^n)$  
 Traducción DSA: **cualquier exponencial $a^n$ revienta a cualquier polinomio $n^k$**.
@@ -112,7 +112,7 @@ Traducción DSA: **cualquier exponencial $a^n$ revienta a cualquier polinomio $n
 
 Usando L’Hôpital (y estos patrones) te quedas con la jerarquía clásica de crecimiento:
 
-log⁡n≪nα≪nαlog⁡kn≪an≪n!\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n! logn≪nα≪nαlogkn≪an≪n!
+$log⁡n≪nα≪nαlog⁡kn≪an≪n!\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n! logn≪nα≪nαlogkn≪an≪n!$
 
 - $\log n$ = muy lento (good complexity)
     
