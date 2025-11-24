@@ -112,8 +112,7 @@ Traducción DSA: **cualquier exponencial $a^n$ revienta a cualquier polinomio $n
 
 Usando L’Hôpital (y estos patrones) te quedas con la jerarquía clásica de crecimiento:
 
-					$\huge{\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n!}$
-
+			$\Large{\log n \ll n^\alpha \ll n^\alpha \log^k n \ll a^n \ll n!}$
 - $\log n$ = muy lento (good complexity)
     
 - $n$, $n \log n$, $n^2$, $n^3$… = polinómicos (normalito)
