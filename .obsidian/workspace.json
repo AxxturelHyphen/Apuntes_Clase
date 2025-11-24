@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
-                "mode": "preview",
+                "file": "Guija/_OOC/AED/l'hopital en DSA.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Fundamentos de algoritmos y complejidad"
+              "title": "l'hopital en DSA"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
+    "Guija/_OOC/AED/l'hopital en DSA.md",
     "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
@@ -191,7 +193,6 @@
     "Excalidraw",
     "Untitled.md",
     "Guija",
-    "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -221,7 +222,6 @@
     "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md",
     "Acceso a Datos/asdasdasd.md",
     "Acceso a Datos/Untitled.md",
-    "README.md",
-    "create a link.md"
+    "README.md"
   ]
 }
