@@ -83,7 +83,7 @@ Otra vez $\infty / \infty$:
 - $g'(x) = 1$
     
 
-$L=lim⁡x→∞1/x1=0L = \lim_{x \to \infty} \frac{1/x}{1} = 0L=x→∞lim​11/x​=0$
+$\large{L = \lim_{x \to \infty} \frac{1/x}{1} = 0}$
 
 ⇒ $n\log n \in o(n^2)$  
 Traducción DSA: **$O(n \log n)$ es mejor (más rápido) que $O(n^2)$**.
@@ -92,7 +92,7 @@ Traducción DSA: **$O(n \log n)$ es mejor (más rápido) que $O(n^2)$**.
 
 #### Ejemplo 3: $n$ vs $2^n$
 
-L=lim⁡n→∞n2nL = \lim_{n \to \infty} \frac{n}{2^n}L=n→∞lim​2nn​
+$\large{L = \lim_{n \to \infty} \frac{n}{2^n}}​$
 
 Tipo $\infty / \infty$. Derivamos:
 
@@ -101,7 +101,7 @@ Tipo $\infty / \infty$. Derivamos:
 - $g'(x) = 2^x \ln 2$
     
 
-L=lim⁡x→∞12xln⁡2=0L = \lim_{x \to \infty} \frac{1}{2^x \ln 2} = 0L=x→∞lim​2xln21​=0
+$L=lim⁡x→∞12xln⁡2=0L = \lim_{x \to \infty} \frac{1}{2^x \ln 2} = 0$
 
 ⇒ $n \in o(2^n)$  
 Traducción DSA: **cualquier exponencial $a^n$ revienta a cualquier polinomio $n^k$**.
