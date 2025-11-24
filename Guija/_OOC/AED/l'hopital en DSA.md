@@ -63,7 +63,7 @@ Es $\infty / \infty$. Aplico L’Hôpital:
 - $g'(x) = \alpha x^{\alpha-1}$
     
 
-$L=lim⁡x→∞1/xαxα−1=lim⁡x→∞1αxα=0L = \lim_{x \to \infty} \frac{1/x}{\alpha x^{\alpha-1}} = \lim_{x \to \infty} \frac{1}{\alpha x^\alpha} = 0L=x→∞lim​αxα−11/x​=x→∞lim​αxα1​=0$
+$\large{L = \lim_{x \to \infty} \frac{1/x}{\alpha x^{\alpha-1}} = \lim_{x \to \infty} \frac{1}{\alpha x^\alpha} = 0$
 
 ⇒ $\log n$ crece mucho más lento que $n^\alpha$  
 ⇒ $\log n \in o(n^\alpha)$
