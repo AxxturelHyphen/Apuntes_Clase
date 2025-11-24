@@ -40,7 +40,7 @@ Si:
 
 Entonces:
 
-$\large{\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}$
+$\large{\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)}}$
 
 si este segundo límite existe (o es $\pm \infty$).
 
@@ -54,7 +54,7 @@ En DSA simplemente tratamos $n$ como real ($x$) y hacemos el límite cuando $x \
 
 Compara $f(n) = \log n$ y $g(n) = n^\alpha$:
 
-L=lim⁡n→∞log⁡nnαL = \lim_{n \to \infty} \frac{\log n}{n^\alpha}L=n→∞lim​nαlogn​
+L = \lim_{n \to \infty} \frac{\log n}{n^\alpha
 
 Es $\infty / \infty$. Aplico L’Hôpital:
 
