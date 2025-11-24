@@ -13,7 +13,7 @@ En **análisis de algoritmos** comparamos funciones tipo:
 
 Para saber cuál crece más rápido, miramos el límite:
 
-$\lim_{n \to \infty} \frac{T_1(n)}{T_2(n)}n→∞lim​T2​(n)T1​(n)​$
+					 $\lim_{n \to \infty} \frac{T_1(n)}{T_2(n)}​$
 
 - Si el límite es **0** → $T_1(n)$ crece más lento → $T_1(n) \in o(T_2(n))$
     
@@ -23,7 +23,7 @@ $\lim_{n \to \infty} \frac{T_1(n)}{T_2(n)}n→∞lim​T2​(n)T1​(n)​$
     
 
 El problema: muchos límites son del tipo **∞/∞** o **0/0**.  
-Ahí entra **L’Hôpital’s rule**.
+Ahí entra **L’Hôpital’s**.
 
 ---
 
