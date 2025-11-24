@@ -8,5 +8,6 @@
   "obsidian-latex-suite",
   "obsidian-tikzjax",
   "copy-as-latex",
-  "quick-latex"
+  "quick-latex",
+  "obsidian-latex-environments"
 ]
