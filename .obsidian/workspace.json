@@ -11,12 +11,14 @@
             "id": "8e92f0b4ba0c076f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guija/Acceso a Datos/Anexo-JavaStreams.pdf"
+                "file": "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Anexo-JavaStreams"
+              "icon": "lucide-file",
+              "title": "UD2_SpringBoot_resumen_profundizado"
             }
           }
         ]
@@ -182,6 +184,8 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
+    "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "Guija/Acceso a Datos/lombok.png",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
@@ -205,7 +209,6 @@
     "Excalidraw/Drawing 2025-11-19 01.30.46.excalidraw.md",
     "Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
-    "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
     "Guija/Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
     "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
     "Acceso a Datos/Anexo-JavaStreams_formatted_v2.md",
@@ -219,7 +222,6 @@
     "Acceso a Datos/05_UD1_Acceso_RDBMS_JDBC.md",
     "Acceso a Datos/06_Repaso_Acceso_Datos.md",
     "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md",
-    "Acceso a Datos/asdasdasd.md",
-    "Acceso a Datos/Untitled.md"
+    "Acceso a Datos/asdasdasd.md"
   ]
 }
