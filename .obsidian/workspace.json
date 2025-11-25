@@ -182,8 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8e92f0b4ba0c076f",
+  "active": "0a5c7d18b2899e00",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/docs",
+    "Guija/_OOC/docs",
+    "Guija/_OOC/AED/docs/arraylists.png",
     "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "Guija/_OOC/AED/l'hopital en DSA.md",
@@ -207,7 +210,6 @@
     "Guija/Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
     "Guija/Acceso a Datos/Resumen_Streams_DG.pdf",
     "Guija/Acceso a Datos/ResumenFicheros.pdf",
-    "Guija/Acceso a Datos/UD1-Acceso a ficheros e RDBMS.pdf",
     "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
     "Acceso a Datos/Anexo-JavaStreams_formatted_v2.md",
     "Acceso a Datos/Repaso_AccesoDatos_DG.md",
@@ -221,7 +223,6 @@
     "Acceso a Datos/06_Repaso_Acceso_Datos.md",
     "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md",
     "Acceso a Datos/asdasdasd.md",
-    "Acceso a Datos/Untitled.md",
-    "README.md"
+    "Acceso a Datos/Untitled.md"
   ]
 }
