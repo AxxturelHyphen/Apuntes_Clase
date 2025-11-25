@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
-                "mode": "preview",
+                "file": "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UD2_SpringBoot_resumen_profundizado"
+              "title": "2.Recurrencias (recurrences) y recursión (recursion)"
             }
           }
         ]
@@ -182,12 +182,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a5c7d18b2899e00",
+  "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "0_comun",
     "Anton",
     "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
-    "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "Guija/Acceso a Datos/lombok.png",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
@@ -210,7 +210,6 @@
     "Excalidraw/Drawing 2025-11-19 01.30.45.excalidraw.md",
     "Excalidraw/Drawing 2025-11-19 01.30.46.excalidraw.md",
     "Recurrencias (recurrences) y recursión (recursion).md",
-    "Guija/IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
     "Excalidraw/Drawing 2025-11-18 21.28.24.excalidraw.md",
     "Acceso a Datos/Anexo-JavaStreams_formatted_v2.md",
     "Acceso a Datos/Repaso_AccesoDatos_DG.md",
