@@ -11,14 +11,12 @@
             "id": "8e92f0b4ba0c076f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
-                "mode": "source",
-                "source": false
+                "file": "Guija/_OOC/AED/docs/arraylists.png"
               },
-              "icon": "lucide-file",
-              "title": "2.Recurrencias (recurrences) y recursión (recursion)"
+              "icon": "lucide-image",
+              "title": "arraylists"
             }
           }
         ]
@@ -184,6 +182,7 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "0_comun",
     "Anton",
@@ -196,7 +195,6 @@
     "Guija/Acceso a Datos/UD2",
     "Guija/_OOC/AED/docs",
     "Guija/_OOC/docs",
-    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/l'hopital en DSA.md",
     "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
     "Excalidraw/Drawing 2025-11-20 14.29.58.excalidraw.md",
