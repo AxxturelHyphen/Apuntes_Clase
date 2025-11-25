@@ -11,12 +11,14 @@
             "id": "8e92f0b4ba0c076f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Guija/_OOC/AED/docs/arraylists.png"
+                "file": "Guija/_OOC/AED/l'hopital en DSA.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "arraylists"
+              "icon": "lucide-file",
+              "title": "l'hopital en DSA"
             }
           }
         ]
@@ -182,6 +184,8 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "Guija/_OOC/AED/docs/arraylists.png",
     "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "0_comun",
@@ -190,8 +194,6 @@
     "Guija/Acceso a Datos/lombok.png",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
-    "Guija/_OOC/AED/docs/arraylists.png",
-    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "Guija/Acceso a Datos/UD2",
     "Guija/_OOC/AED/docs",
     "Guija/_OOC/docs",
