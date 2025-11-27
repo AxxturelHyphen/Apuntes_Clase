@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "3.Estructuras lineales (linear data structures)"
             }
+          },
+          {
+            "id": "f5bedd0540c009c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0a5c7d18b2899e00",
+  "active": "f5bedd0540c009c0",
   "lastOpenFiles": [
     "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1 1.docx",
     "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1.docx",
