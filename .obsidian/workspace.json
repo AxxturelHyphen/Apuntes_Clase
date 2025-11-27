@@ -25,12 +25,14 @@
             "id": "f5bedd0540c009c0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "3.Estructuras lineales (linear data structures)"
             }
           }
         ],
@@ -197,14 +199,15 @@
   },
   "active": "f5bedd0540c009c0",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
+    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "Guija/_OOC/AED/l'hopital en DSA.md",
+    "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
+    "Guija/_OOC/AED/docs/arraylists.png",
+    "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1 1.docx",
     "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1.docx",
     "Guija/English DAM",
-    "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
-    "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
-    "Guija/_OOC/AED/l'hopital en DSA.md",
-    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
-    "Guija/_OOC/AED/docs/arraylists.png",
     "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "0_comun",
@@ -214,11 +217,9 @@
     "Guija/Acceso a Datos/UD2",
     "Guija/_OOC/AED/docs",
     "Guija/_OOC/docs",
-    "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
     "Excalidraw/Drawing 2025-11-20 14.29.58.excalidraw.md",
     "Excalidraw",
     "Untitled.md",
-    "Guija",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Excalidraw/Drawing 2025-11-19 01.30.45.excalidraw.md",
