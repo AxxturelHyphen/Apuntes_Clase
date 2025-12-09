@@ -11,12 +11,14 @@
             "id": "8e92f0b4ba0c076f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Guija/Acceso a Datos/ResumenFicheros.pdf"
+                "file": "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ResumenFicheros"
+              "icon": "lucide-file",
+              "title": "3.Estructuras lineales (linear data structures)"
             }
           }
         ]
@@ -182,28 +184,27 @@
   },
   "active": "8e92f0b4ba0c076f",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
+    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
+    "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
+    "Guija/_OOC/AED/l'hopital en DSA.md",
+    "Guija/Acceso a Datos/ResumenFicheros.pdf",
     "Guija/Acceso a Datos/Resumen_Streams_DG.pdf",
     "Guija/Acceso a Datos/Repaso_AccesoDatos_DG.pdf",
     "Guija/Acceso a Datos/lombok.png",
     "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
-    "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "preamble.sty",
-    "Guija/_OOC/AED/l'hopital en DSA.md",
     "Guija/_OOC/AED/docs/cdv_photo_1764239347_20251127112907.jpg",
     "Guija/_OOC/AED/docs/cdv_photo_1764239313_20251127112833.jpg",
     "Guija/_OOC/AED/docs/arraylists.png",
     "Guija/_OOC/AED/docs",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
-    "Guija/_OOC/AED/EJERCICIOS AED__DSA.md",
-    "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/_OOC/AED",
     "Guija/_OOC",
     "Guija/PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
     "Guija/PSP",
-    "Guija/IPE/Empleo_y_Competencias_Resumen_Exam.pdf",
-    "Guija/IPE",
     "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
     "_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "_OOC/AED/3.Estructuras lineales (linear data structures).md",
