@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ffdf7dc853220dff",
@@ -200,11 +199,23 @@
   },
   "active": "f5bedd0540c009c0",
   "lastOpenFiles": [
+    "Guija/_OOC/AED/codigo_aed/linkedlists/Node.java",
+    "Guija/_OOC/AED/codigo_aed/linkedlists/LinkedList.java",
+    "Guija/_OOC/AED/codigo_aed/linkedlists/LinkedLists.md",
+    "Guija/_OOC/AED/codigo_aed/linkedlists/DNode.java",
+    "Guija/_OOC/AED/codigo_aed/linkedlists/CircularNode.java",
+    "Guija/_OOC/AED/codigo_aed/4.COLAS (queues)/CircularQueue.java",
+    "Guija/_OOC/AED/codigo_aed/4.COLAS (queues)/CircularQueue.c",
+    "Guija/_OOC/AED/codigo_aed/linkedlists",
+    "Guija/_OOC/AED/codigo_aed/4.COLAS (queues)",
+    "Guija/_OOC/AED/codigo_aed",
+    "Guija/_OOC/AED/codigo_aed_C/linkedlists/Node.java",
+    "Guija/_OOC/AED/codigo_aed_C/linkedlists/LinkedLists.md",
+    "Guija/_OOC/AED/codigo_aed_C/linkedlists/LinkedList.java",
+    "Guija/_OOC/AED/codigo_aed_java/src/main/java/org/example/estructuras_lineales/linkedlists/LinkedLists.md",
     "Guija/_OOC/AED/2.Recurrencias (recurrences) y recursión (recursion).md",
     "Guija/_OOC/AED/1.Fundamentos de algoritmos y complejidad.md",
     "Guija/English DAM/INGLES.md",
-    "Guija/PSP/RESUMEN UNIDAD 1 PROGRAMACIÓN DE PROCESOS.pdf",
-    "Guija/DASP/DASP_chuleta_2pag.pdf",
     "Guija/_OOC/AED/_ALGORITMOS Y ESTRUCTURAS DE DATOS__DATA STRUCTURES & ALGORITHMS.md",
     "Guija/_OOC/AED/3.Estructuras lineales (linear data structures).md",
     "Guija/_OOC/AED/docs/cdv_photo_1764239347_20251127112907.jpg",
@@ -212,16 +223,8 @@
     "Guija/_OOC/AED/l'hopital en DSA.md",
     "Guija/_OOC/AED/docs/cdv_photo_1764239313_20251127112833.jpg",
     "Guija/_OOC/AED/docs/arraylists.png",
-    "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1 1.docx",
-    "Guija/English DAM/IT_Health_and_Safety Unit 2, Lesson 1.docx",
-    "Guija/English DAM",
     "Guija/Acceso a Datos/UD2/UD2_SpringBoot_resumen_profundizado.md",
-    "0_comun",
-    "Anton",
-    "Guija/Acceso a Datos/Anexo-JavaStreams.pdf",
     "Guija/Acceso a Datos/lombok.png",
-    "Guija/Acceso a Datos/UD2",
-    "Guija/_OOC/AED/docs",
     "Excalidraw/Drawing 2025-11-20 14.29.58.excalidraw.md",
     "Untitled.md",
     "Untitled.canvas",
@@ -237,9 +240,6 @@
     "Acceso a Datos/ResumenFicheros.md",
     "Acceso a Datos/02_Resumen_Lambdas_y_Streams.md",
     "Acceso a Datos/01_Anexo_Java_Streams.md",
-    "Acceso a Datos/03_Resumen_Ficheros_Java.md",
-    "Acceso a Datos/05_UD1_Acceso_RDBMS_JDBC.md",
-    "Acceso a Datos/06_Repaso_Acceso_Datos.md",
-    "Acceso a Datos/04_UD1_Ficheros_y_RDBMS.md"
+    "Acceso a Datos/03_Resumen_Ficheros_Java.md"
   ]
 }
