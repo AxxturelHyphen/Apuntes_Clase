@@ -43,3 +43,6 @@ Ex6.
 
 
 **Business matters**
+*WRITING EXERCISE BREIXO & DAVID*
+	- 
+	
