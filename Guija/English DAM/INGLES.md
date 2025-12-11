@@ -44,5 +44,6 @@ Ex6.
 
 **Business matters**
 *WRITING EXERCISE BREIXO & DAVID*
-	- 
-	
+
+HEALTH AND SAFETY REPORT
+	"The computer network cable is hanging from the ceiling "
