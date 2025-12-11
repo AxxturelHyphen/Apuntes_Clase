@@ -46,4 +46,4 @@ Ex6.
 *WRITING EXERCISE BREIXO & DAVID*
 
 HEALTH AND SAFETY REPORT
-	"The computer network cable is hanging from the ceiling "
+	"The computer network cable is hanging from the ceiling."
