@@ -34,7 +34,7 @@ Ex6.
 	C - 2
 	`As it was an accident, just notify the employee to be more careful about their company belongings`
 	B - 3
-	`Reset the printer to fabric settings and advise the employee`
+	`Reset the printer to fabric settings and notice the employee for good`
 	E - 4
 	`Fire the employee immediately and give him a motivational speech`
 	A - 5
