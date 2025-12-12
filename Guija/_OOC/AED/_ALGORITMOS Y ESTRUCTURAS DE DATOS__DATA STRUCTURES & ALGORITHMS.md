@@ -4,7 +4,7 @@
         
     - Medir tiempo y espacio (time & space complexity).
         
-    - Notación Big-O, Big-Ω, Big-Θ (asymptotic notation).[Wikipedia+2GeeksforGeeks+2](https://en.wikipedia.org/wiki/Big_O_notation?utm_source=chatgpt.com)
+    - Notación Big-O, Big-Ω, Big-Θ (asymptotic notation).
         
     - Casos: peor (worst case), promedio (average case), mejor (best case).
         
@@ -26,7 +26,7 @@
         
     - Colas de prioridad (priority queues) básicas.
         
-- **Árboles (trees)**
+- **[[4.Arboles (Trees)]]**
     
     - Árboles binarios (binary trees) y recorridos (traversals): preorder, inorder, postorder.
         

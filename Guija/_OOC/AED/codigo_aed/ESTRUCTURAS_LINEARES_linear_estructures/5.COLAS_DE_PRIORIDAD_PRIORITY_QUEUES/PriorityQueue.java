@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
  * - Operaciones clave: add/offer, poll/remove, peek; offer/poll devuelven false/null en vez de lanzar excepcion.
  * @author AxxturelHyphen
  */
-public class PriorityQueueDemo {
+public class PriorityQueue {
     // Pequeno record de tarea con prioridad entera
     static class Task {
         String name;
