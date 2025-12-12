@@ -5,6 +5,8 @@
  * Más fácil recorrer hacia atrás.
  */
 /// @author AxxturelHyphen
+
+
 static class DNode {
     int data;
     DNode prev; //nodo anterior

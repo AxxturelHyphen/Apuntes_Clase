@@ -1,4 +1,3 @@
-package org.example.estructuras_lineales.linkedlists;
 
 /**
  * Singly linked list:
