@@ -1,6 +1,7 @@
 /**
  * Pila con array de capacidad fija (traduccion de IntStack.java).
  * Ideal para ver la version "contigua" de una pila: O(1) en push/pop/peek.
+ * @author AxxturelHyphen
  */
 
 #include <stdbool.h>

@@ -2,6 +2,7 @@
  * Demo en C de "array fijo" y "ArrayList-like" dinamico (traduccion de Arrays_ArrayLists.java).
  * array = size fijo y acceso O(1) via index.
  * dynamic array (ArrayList style) = resize interno y add/remove que reacomodan.
+ * @author AxxturelHyphen
  */
 
 #include <stdbool.h>

@@ -6,6 +6,7 @@ import java.util.Queue;
  * enqueue = add (lanza excepcion si falla).
  * dequeue = remove (lanza excepcion si la cola esta vacia).
  * Alternativas: offer() / poll() para evitar excepciones y devolver false/null.
+ * @author AxxturelHyphen
  */
 public class LinkedQueue {
     public static void main(String[] args) {

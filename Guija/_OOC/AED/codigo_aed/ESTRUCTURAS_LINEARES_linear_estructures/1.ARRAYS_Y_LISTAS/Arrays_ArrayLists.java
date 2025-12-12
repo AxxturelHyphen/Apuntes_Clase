@@ -1,11 +1,12 @@
 import java.util.ArrayList;
 
 class Arrays_ArrayLists {
-    /**
-     * Mini demo: array fijo vs ArrayList dinamica.
-     * array => size fijo, acceso O(1) via index, sin resize.
-     * ArrayList => dynamic resize interno, add/remove desplaza elementos.
-     */
+/**
+ * Mini demo: array fijo vs ArrayList dinamica.
+ * array => size fijo, acceso O(1) via index, sin resize.
+ * ArrayList => dynamic resize interno, add/remove desplaza elementos.
+ * @author AxxturelHyphen
+ */
     public static void main(String[] args) {
         // Array basico en Java (fixed-size, valores int)
         int[] numeros = new int[5]; // array de 5 enteros (inicializados a 0)

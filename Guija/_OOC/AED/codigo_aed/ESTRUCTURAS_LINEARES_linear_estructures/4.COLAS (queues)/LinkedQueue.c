@@ -2,6 +2,7 @@
  * Cola (queue) usando lista enlazada simple.
  * enqueue = push back; dequeue = pop front. Operaciones O(1).
  * En Java puedes usar offer()/poll() para evitar excepciones y devolver false/null.
+ * @author AxxturelHyphen
  */
 
 #include <stdbool.h>

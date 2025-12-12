@@ -45,5 +45,8 @@ Ex6.
 **Business matters**
 *WRITING EXERCISE BREIXO & DAVID*
 
-HEALTH AND SAFETY REPORT
-	"The computer network cable is hanging from the ceiling."
+**Health and Safety Report**  
+“The office is unsafe and badly organised. There are drinks and a kettle near computers and power cables, which could cause spills, burns or electric shock. Loose cables and rubbish on the floor, including a banana skin, are serious trip and slip hazards. Heavy files and boxes are stored on top of a cabinet and there is a dartboard in the work area, so staff could easily be injured.”
+
+**Network Security Report**  
+“The computer is connected straight to the Internet through a modem with no router or firewall to protect it. There is no clear antivirus, update policy or backup system for important files. This means the company is very vulnerable to viruses, hackers and accidental data loss, and even a small attack could stop work in the whole office.”

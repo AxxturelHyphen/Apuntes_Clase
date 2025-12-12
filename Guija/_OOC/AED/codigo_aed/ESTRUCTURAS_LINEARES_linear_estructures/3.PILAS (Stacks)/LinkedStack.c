@@ -2,6 +2,7 @@
  * Pila implementada con lista enlazada (traduccion de LinkedStack.java).
  * Cada push/pop solo toca head: operaciones O(1) sin limite de capacidad
  * (mas alla de la memoria disponible).
+ * @author AxxturelHyphen
  */
 
 #include <stdbool.h>
