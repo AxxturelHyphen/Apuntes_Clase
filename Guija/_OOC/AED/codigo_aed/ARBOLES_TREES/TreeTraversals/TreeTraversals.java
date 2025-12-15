@@ -1,15 +1,18 @@
-/**
- * Arbol binario basico para recorridos DFS/BFS.
- * Node->left->right con ejemplo fijo para practicar los ordenes.
- * @author AxxturelHyphen
- */
-
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
+/**
+ * Arbol binario basico para practicar recorridos DFS/BFS recursivos.
+ * Construye un arbol fijo y expone utilidades para preorder, inorder,
+ * postorder y level-order, ideal para estudiar el orden de visita.
+ * @author AxxturelHyphen
+ */
 class TreeTraversals {
+    /**
+     * Nodo simple para arbol binario con punteros a hijo izquierdo y derecho.
+     */
     static class TreeNode {
         int value;
         TreeNode left;
@@ -20,7 +23,11 @@ class TreeTraversals {
         }
     }
 
-    // preorder: Node -> Left -> Right
+    /**
+     * Recorre en preorder (Nodo -> Izquierda -> Derecha).
+     * @param node raiz actual
+     * @param out lista donde se agregan los valores visitados
+     */
     static void preorder(TreeNode node, List<Integer> out) {
         if (node == null) return;
         out.add(node.value);
@@ -28,7 +35,10 @@ class TreeTraversals {
         preorder(node.right, out);
     }
 
-    // inorder: Left -> Node -> Right
+    /**
+     * Recorre en inorder (Izquierda -> Nodo -> Derecha).
+     * Para BST devolveria los elementos en orden ascendente.
+     */
     static void inorder(TreeNode node, List<Integer> out) {
         if (node == null) return;
         inorder(node.left, out);
@@ -36,7 +46,10 @@ class TreeTraversals {
         inorder(node.right, out);
     }
 
-    // postorder: Left -> Right -> Node
+    /**
+     * Recorre en postorder (Izquierda -> Derecha -> Nodo).
+     * Util para operaciones donde primero se procesan hijos (p.ej. delete tree).
+     */
     static void postorder(TreeNode node, List<Integer> out) {
         if (node == null) return;
         postorder(node.left, out);
@@ -44,7 +57,11 @@ class TreeTraversals {
         out.add(node.value);
     }
 
-    // level-order (BFS) usando queue
+    /**
+     * Recorre por niveles (BFS) usando una cola auxiliar.
+     * @param root raiz del arbol
+     * @return lista con los valores visitados de arriba hacia abajo
+     */
     static List<Integer> levelOrder(TreeNode root) {
         List<Integer> out = new ArrayList<>();
         if (root == null) return out;
@@ -59,7 +76,19 @@ class TreeTraversals {
         return out;
     }
 
-    // Construye el arbol de ejemplo del apunte
+    /**
+     * Construye el arbol de ejemplo del apunte:
+     *
+     *              8
+     *           /     \
+     *          3      10
+     *         / \       \
+     *        1   6      14
+     *           / \    /
+     *          4   7  13
+     *
+     * @return raiz del arbol de prueba
+     */
     static TreeNode buildSample() {
         TreeNode n8 = new TreeNode(8);
         TreeNode n3 = new TreeNode(3);

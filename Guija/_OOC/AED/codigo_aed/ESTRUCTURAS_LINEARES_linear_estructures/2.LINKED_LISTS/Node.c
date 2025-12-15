@@ -3,8 +3,8 @@
  * Solo next.
  * Menos memoria, mas sencilla.
  * Para eliminar un nodo necesitas referencia al anterior (o buscarlo).
+ * @author AxxturelHyphen
  */
-/// @author AxxturelHyphen
 
 #include <stdio.h>
 #include <stdlib.h>

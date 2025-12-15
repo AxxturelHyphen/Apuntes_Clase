@@ -3,9 +3,8 @@
  * Ultimo nodo apunta al primero.
  * Util en rondas ciclicas, buffers circulares.
  * Cuidado con bucles infinitos.
+ * @author AxxturelHyphen
  */
-
-/// @author AxxturelHyphen
 
 #include <stdio.h>
 #include <stdlib.h>

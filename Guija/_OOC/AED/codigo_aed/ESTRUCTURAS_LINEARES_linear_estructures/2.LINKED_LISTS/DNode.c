@@ -3,8 +3,8 @@
  * prev y next.
  * Mas memoria, pero eliminar un nodo dado es O(1) sin buscar el anterior.
  * Mas facil recorrer hacia atras.
+ * @author AxxturelHyphen
  */
-/// @author AxxturelHyphen
 
 #include <stdio.h>
 #include <stdlib.h>

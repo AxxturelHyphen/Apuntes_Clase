@@ -1,8 +1,8 @@
 /**
  * Implementacion de cola circular con arreglo.
  * Mantiene head, tail y tamano actual para O(1) en encolar/desencolar.
+ * @author AxxturelHyphen
  */
-/// @author AxxturelHyphen
 
 #include <stdbool.h>
 #include <stdio.h>

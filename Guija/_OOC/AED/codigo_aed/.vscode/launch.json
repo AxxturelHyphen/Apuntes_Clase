@@ -2,14 +2,32 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Java: Debug current file (main en el archivo abierto)",
+      "request": "launch",
+      "mainClass": "${fileBasenameNoExtension}",
+      "cwd": "${fileDirname}",
+      "console": "integratedTerminal",
+      "stopOnEntry": false
+    },
+    {
+      "type": "java",
+      "name": "Java: Debug (escribir mainClass FQCN si hay package)",
+      "request": "launch",
+      "mainClass": "${input:mainClass}",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "stopOnEntry": false
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/WINDOWS/Apuntes_Clase/Guija/_OOC/AED/codigo_aed",
-      "program": "e:/WINDOWS/Apuntes_Clase/Guija/_OOC/AED/codigo_aed/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
@@ -19,6 +37,14 @@
           "ignoreFailures": true
         }
       ]
+    }
+  ],
+  "inputs": [
+    {
+      "id": "mainClass",
+      "type": "promptString",
+      "description": "Main class (si hay package: ejemplo aed.stacks.IntStack; si no: IntStack)",
+      "default": "IntStack"
     }
   ]
 }
