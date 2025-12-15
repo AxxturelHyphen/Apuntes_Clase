@@ -4,7 +4,7 @@
  * evitando movimientos de datos y mostrando el esquema clasico de buffer circular.
  * @author AxxturelHyphen
  */
-class CircularQueue {
+public class CircularQueue {
     private int[] arr;
     private int capacity;
     private int head;
@@ -74,7 +74,7 @@ class CircularQueue {
         return currentSize == capacity;
     }
 
-    static void main(){
+    public static void main(String[] args) throws Exception {
         CircularQueue q = new CircularQueue(3);
 
         q.enqueue(10);

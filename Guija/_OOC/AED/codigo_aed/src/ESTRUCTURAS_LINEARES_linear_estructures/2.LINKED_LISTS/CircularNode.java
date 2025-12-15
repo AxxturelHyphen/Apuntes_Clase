@@ -1,14 +1,11 @@
-package org.example.estructuras_lineales.linkedlists;
 /**
  * Circular linked list:
- * Último nodo apunta al primero.
- * Útil en rondas cíclicas, buffers circulares.
+ * ultimo nodo apunta al primero.
+ * util en rondas ciclicas, buffers circulares.
  * Cuidado con bucles infinitos.
  */
-
 /// @author AxxturelHyphen
-
-class CircularNode {
+public class CircularNode {
     int data;          // dato de cada nodo
     CircularNode next; // puntero al siguiente nodo
 
@@ -17,7 +14,7 @@ class CircularNode {
         this.next = null;
     }
 
-    static void main() {
+    public static void main(String[] args) {
 
         // Construir manualmente una lista circular [10 -> 20 -> 30 -> vuelve a 10]
         CircularNode head = new CircularNode(10);      // primer nodo
@@ -26,9 +23,9 @@ class CircularNode {
 
         head.next = second;
         second.next = third;
-        third.next = head; // cierre del círculo
+        third.next = head; // cierre del circulo
 
-        // Recorrer e imprimir UNA VUELTA al círculo
+        // Recorrer e imprimir UNA VUELTA al circulo
         CircularNode current = head;
         if (head != null) {
             do {
@@ -44,14 +41,14 @@ class CircularNode {
          */
         CircularNode newNode = new CircularNode(5);
 
-        // Buscar el "tail" (último nodo, cuyo next apunta a head)
+        // Buscar el "tail" (ultimo nodo, cuyo next apunta a head)
         CircularNode tail = head;
         while (tail.next != head) {
             tail = tail.next;
         }
 
         newNode.next = head; // nuevo apunta al antiguo head
-        tail.next = newNode; // el último ahora apunta al nuevo
+        tail.next = newNode; // el ultimo ahora apunta al nuevo
         head = newNode;      // actualizamos head
 
         /**
@@ -61,7 +58,7 @@ class CircularNode {
          *  - lista con varios nodos
          */
         if (head != null) {
-            // si solo hay un nodo (apunta a sí mismo)
+            // si solo hay un nodo (apunta a si mismo)
             if (head.next == head) {
                 head = null;
             } else {
@@ -71,13 +68,13 @@ class CircularNode {
                     tail = tail.next;
                 }
                 head = head.next;  // nuevo primer nodo
-                tail.next = head;  // cerramos el círculo
+                tail.next = head;  // cerramos el circulo
             }
         }
 
         /**
-         * Insertar 15 después del nodo con valor 10
-         * Resultado final esperado (si existía 10):
+         * Insertar 15 despues del nodo con valor 10
+         * Resultado final esperado (si existia 10):
          * [5 -> 10 -> 15 -> 20 -> 30 -> vuelve a 5]
          */
         if (head != null) {

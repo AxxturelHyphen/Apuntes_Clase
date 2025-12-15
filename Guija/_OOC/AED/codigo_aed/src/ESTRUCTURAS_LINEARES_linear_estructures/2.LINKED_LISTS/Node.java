@@ -6,7 +6,7 @@
  * Para eliminar un nodo necesitas referencia al anterior (o buscarlo).
  */
 /// @author AxxturelHyphen
-class Node {
+public class Node {
     int data; // dato de cada nodo
     Node next; // puntero que apunta al siguiente nodo
 
@@ -15,7 +15,7 @@ class Node {
         this.next = null;
     }
 
-    static void main() {
+    public static void main(String[] args) {
 
         // Construir manualmente una lista [10 -> 20 -> 30]
         Node head = new Node(10); //primer nodo
