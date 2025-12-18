@@ -27,7 +27,7 @@ static Node *create_node(int data) {
 }
 
 // Imprime la lista enlazada de forma lineal
-static void print_list(const Node *head) {  
+static void print_list(const Node *head) {
     const Node *current = head;
     while (current != NULL) {
         printf("%d ", current->data);

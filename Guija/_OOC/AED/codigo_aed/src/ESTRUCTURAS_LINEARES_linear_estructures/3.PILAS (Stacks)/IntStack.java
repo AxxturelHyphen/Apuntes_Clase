@@ -28,7 +28,6 @@ class IntStack {
         }
         stackArr[++topIndex] = value;
     }
-
     /**
      * Saca y devuelve el valor del tope.
      * @return ultimo valor insertado

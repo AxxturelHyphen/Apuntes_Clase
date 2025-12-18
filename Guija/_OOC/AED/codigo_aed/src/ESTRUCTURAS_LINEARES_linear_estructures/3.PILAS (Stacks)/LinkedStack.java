@@ -7,11 +7,10 @@
  */
 class LinkedStack {
     private Node top;  // referencia al tope de la pila
-
+    final static int MAX_RANGE;
     public LinkedStack() {
         top = null;
     }
-
     /**
      * Inserta un elemento al tope de la pila.
      * @param val dato a guardar
@@ -21,7 +20,6 @@ class LinkedStack {
         newNode.next = top;
         top = newNode;
     }
-
     /**
      * Extrae el nodo del tope y devuelve su valor.
      * @return valor almacenado en el tope
@@ -53,5 +51,10 @@ class LinkedStack {
      */
     public boolean isEmpty() {
         return (top == null);
+    }
+    static void main(){
+        System.out.println("String \n");
+        peek();
+        
     }
 }
